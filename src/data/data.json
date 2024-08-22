@@ -1,0 +1,80 @@
+{
+    "header": {
+        "name": "Dax Harris",
+        "pronouns": "she/they/it",
+        "image": "https://avatars.githubusercontent.com/u/30746447"
+    },
+    "skills": {
+        "languages": [
+            "Python",
+            "HTML/CSS/JS",
+            "TypeScript",
+            "Rust",
+            "C",
+            "MicroPython",
+            "SASS",
+            "Java"
+        ],
+        "frameworks": [
+            "React",
+            "Litestar",
+            "Tauri",
+            "Click",
+            "Vite",
+            "Mantine UI"
+        ],
+        "libraries": [
+            "httpx",
+            "requests",
+            "beanie",
+            "sqlalchemy",
+            "i18next",
+            "react-router",
+            "pytest",
+            "pydantic",
+            "serde"
+        ],
+        "tools": [
+            "MongoDB",
+            "PostgreSQL",
+            "SQLite",
+            "Proxmox",
+            "Kubernetes",
+            "Docker",
+            "VS Code",
+            "Bash",
+            "mkdocs",
+            "git",
+            "GitHub",
+            "Gitlab"
+        ],
+        "platforms": ["Arch Linux", "RHEL", "General Linux Systems", "Windows"],
+        "skills": [
+            "Creative Writing",
+            "System Administration",
+            "Project Management",
+            "API Design",
+            "Database Development",
+            "OOP"
+        ]
+    },
+    "contact": [
+        {
+            "name": "Email",
+            "icon": "MailFilled",
+            "value": "me@dax.gay",
+            "url": "mailto:me@dax.gay"
+        },
+        {
+            "name": "Discord",
+            "icon": "BrandDiscordFilled",
+            "value": "@itecx"
+        },
+        {
+            "name": "Github",
+            "icon": "BrandGithubFilled",
+            "value": "@dax-dot-gay",
+            "url": "https://github.com/dax-dot-gay"
+        }
+    ]
+}
